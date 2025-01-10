@@ -466,7 +466,7 @@
     },
     "/form-submission-meta/{submissionId}/approval-steps/{approvalLabel}": {
       "get": {
-        "description": "Allows for Form Approval data for single step to be retrieved",
+        "description": "Allows for Form Approval data for a single step to be retrieved",
         "summary": "Retrieve Approval Record",
         "operationId": "GetFormSubmissionApprovalByStepLabel",
         "x-ms-visibility": "important",
